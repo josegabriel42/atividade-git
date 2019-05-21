@@ -1,2 +1,7 @@
 kratos
 Atreus
+Thor
+Loki
+Odin
+Freya
+Ragnar
